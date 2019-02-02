@@ -1,7 +1,5 @@
 # SPEF
 
-# SPEF
-
 This is the matlab scripts for reproducible results in our published paper: Ke Xu, Meng Sheng, Hongying Liu, Jiangchuan Liu, Fan Li and Tong Li, "Achieving Optimal Traffic Engineering Using a Generalized Routing Framework." IEEE Transactions on Parallel and Distributed Systems (TPDS), vol. 27, no. 1, pp. 51-65, 2014. 
 
 1、The input file directory：.\edge_demand\AbileneTM
